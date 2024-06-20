@@ -13,3 +13,5 @@
 
 # Git add name 
 *Сохроняем изменение в ветке
+
+# Git push -u origin name
