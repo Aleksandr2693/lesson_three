@@ -7,3 +7,6 @@
 # Git branch -M mail
 
 # Git Bagdasaryan
+
+# Git init
+* Создаем новую ветку
